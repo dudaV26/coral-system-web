@@ -1,0 +1,28 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+build-temp/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.settings/
+
+# Logs and Binaries
+*.log
+*.war
+*.zip
+*.rar
+
+# Java
+*.class
+
+# Tomcat/Server artifacts
+*.iws
+*.iws
+*.ipr
